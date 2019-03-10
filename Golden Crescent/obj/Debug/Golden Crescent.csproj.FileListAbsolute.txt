@@ -87,3 +87,92 @@ D:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.csproj.CoreCo
 D:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.csproj.CopyComplete
 D:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.dll
 D:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.pdb
+F:\helal\Golden Crescent\Golden Crescent\bin\Golden Crescent.dll.config
+F:\helal\Golden Crescent\Golden Crescent\bin\Golden Crescent.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Golden Crescent.pdb
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\csc.exe
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\csc.exe.config
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\csc.rsp
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\csi.exe
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\csi.rsp
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.AppContext.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.Collections.Immutable.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.IO.FileSystem.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\System.Reflection.Metadata.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\vbc.exe
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\vbc.exe.config
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\vbc.rsp
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\VBCSCompiler.exe
+F:\helal\Golden Crescent\Golden Crescent\bin\roslyn\VBCSCompiler.exe.config
+F:\helal\Golden Crescent\Golden Crescent\bin\Antlr3.Runtime.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\EntityFramework.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\EntityFramework.SqlServer.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.Core.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Cookies.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Facebook.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Google.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.OAuth.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Twitter.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Web.Infrastructure.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Newtonsoft.Json.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\Owin.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Diagnostics.DiagnosticSource.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Helpers.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Mvc.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Optimization.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Razor.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.Deployment.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.Razor.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\WebGrease.dll
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Helpers.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Mvc.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Optimization.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.Razor.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.Deployment.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Web.WebPages.Razor.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Newtonsoft.Json.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Antlr3.Runtime.pdb
+F:\helal\Golden Crescent\Golden Crescent\bin\EntityFramework.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\EntityFramework.SqlServer.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.Core.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Facebook.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Cookies.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Google.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.Twitter.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.Owin.Security.OAuth.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\System.Diagnostics.DiagnosticSource.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\helal\Golden Crescent\Golden Crescent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.csprojAssemblyReference.cache
+F:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.csproj.CoreCompileInputs.cache
+F:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.csproj.CopyComplete
+F:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.dll
+F:\helal\Golden Crescent\Golden Crescent\obj\Debug\Golden Crescent.pdb
